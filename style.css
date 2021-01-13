@@ -3,7 +3,6 @@
 }
 .panda-footer{
     background-color: white;
-    border: 0;
 }
 .categories img{
     width:90px;
@@ -27,5 +26,7 @@
 }
 .form{
     border-radius:5px;
-    border: 0em;
+}
+.form,.card-footer{
+    border: 0;
 }
